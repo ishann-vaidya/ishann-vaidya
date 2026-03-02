@@ -48,7 +48,7 @@ I am an Information Technology undergraduate (Honors in Data Science) with a str
 Offline PDF AI system that extracts and prioritizes relevant sections based on user role and task.  
 Tech: Python, Flask, Docker, local embeddings, CPU-only execution.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github)](https://github.com/xyzpqrr/Devgenix_1B)
+[![View Repository](https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github)](https://github.com/ishann-vaidya/Devgenix_1B)
 
 ---
 
